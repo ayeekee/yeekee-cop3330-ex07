@@ -6,7 +6,6 @@ package org.example;
  */
 
 import java.util.Scanner;
-//import java.util.Formatter;
 
 public class App {
     static final double constant = 0.09290304;
